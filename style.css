@@ -144,7 +144,7 @@
     background-color: #212121;
 }
 .img{
-    margin-left: 32px;
+    margin-left: 29px;
     background-color: #212121;
 }
 .s{
@@ -153,12 +153,12 @@
 }
 .d{
     margin-left: 8px;
-    margin-right: 8px;
+    margin-right: 6px;
     margin-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 230px;
+    width: 240px;
     height: 100px;
     background-color: #303030;
 }
@@ -194,7 +194,7 @@
     width: 150px;
 }
 .c{
-    margin-left: 20px;
+    margin-left: 18px;
     margin-right: 20px;
     margin-top: 20px;
     display: flex;
